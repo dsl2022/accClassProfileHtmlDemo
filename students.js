@@ -11,7 +11,7 @@ export const data = [
         lastName:'Watt',
         location: 'Fullerton, CA',
         html:'annaliesaWatt.html',
-        imagePath:'images/annaliesaWatt.jpg'
+        imagePath:'"C:\Users\fireh\OneDrive\Desktop\annaliesaWatt.jpg"'
     },
 ]
 
