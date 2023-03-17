@@ -2,9 +2,9 @@ export const data = [
     {
         firstName:'Thomas',
         lastName:'Cerda',
-        location: 'San Bernardino, CA',
+        location: 'California, CA',
         html:'thomasCerda.html',
-        imagePath:'images/thomascerda.jpg'
+        imagePath:'images/thomasCerda.jpg'
     },
     {
         firstName:'Thomas',
