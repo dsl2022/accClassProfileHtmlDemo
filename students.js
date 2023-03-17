@@ -10,7 +10,7 @@ export const data = [
         firstName:'Isai',
         lastName:'Xuncax',
         location: 'Los Angeles, CA',
-        html:'isaixuncax.html',
+        html:'isaiXuncax.html',
         imagePath:'images/isaiXuncax.jpg'
     },
 ]
