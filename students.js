@@ -10,7 +10,7 @@ export const data = [
         firstName:'Ronay',
         lastName:'Sanchez',
         location: 'California, CA',
-        html:'RonaySanchez.html',
+        html:'ronaySanchez.html',
         imagePath:'images/ronaySanchez.jpg'
     },
 ]
