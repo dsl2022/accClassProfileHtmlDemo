@@ -11,7 +11,7 @@ export const data = [
         lastName:'Moreno',
         location: 'Riverside, CA',
         html:'rafaelmoreno.html',
-        imagePath:'images/rafaelmoreno.jpg'
+        imagePath:'images/rafaelMoreno.jpg'
     },
 ]
 
