@@ -1,17 +1,17 @@
 export const data = [
     {
-        firstName:'David',
-        lastName:'Liang',
+        firstName:'Willy',
+        lastName:'Salas',
         location: 'Philadephia, PA',
-        html:'davidLiang.html',
-        imagePath:'images/davidLiang.jpg'
+        html:'willySalas.html',
+        imagePath:'images/willySalas.jpg'
     },
     {
-        firstName:'David',
-        lastName:'Liang',
+        firstName:'Willy',
+        lastName:'Salas',
         location: 'Philadephia, PA',
-        html:'davidLiang.html',
-        imagePath:'images/davidLiang.jpg'
+        html:'willySalas.html',
+        imagePath:'images/willySalas.jpg'
     },
 ]
 
