@@ -1,10 +1,10 @@
 export const data = [
     {
-        firstName:'Willy',
-        lastName:'Salas',
+        firstName:'David',
+        lastName:'Liang',
         location: 'Philadephia, PA',
-        html:'willySalas.html',
-        imagePath:'images/willySalas.jpg'
+        html:'davidLiang.html',
+        imagePath:'images/davidLiang.jpg'
     },
     {
         firstName:'Willy',
