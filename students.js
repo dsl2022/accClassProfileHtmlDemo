@@ -5,16 +5,19 @@ export const data = [
         location: 'Philadephia, PA',
         html:'davidLiang.html',
         imagePath:'images/davidLiang.jpg'
-    },
-    {
+    },{
         firstName:'Miguel',
         lastName:'Flores',
         location: 'Garden Grove, CA',
         html:'miguelFlores.html',
         imagePath:'images/miguelFlores.jpg'
-
-    },
-    {
+    },{
+        firstName:'Tamari',
+        lastName:'Tinsley',
+        location: 'California, CA',
+        html:'tamariTinsley.html',
+        imagePath:'images/tamariTinsley.jpg'
+    },{
         firstName:'Iwona',
         lastName:'LaFave',
         location: 'Redlands, Ca',
