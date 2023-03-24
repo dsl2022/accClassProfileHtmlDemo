@@ -12,6 +12,12 @@ export const data = [
         location: 'perris,ca',
         html:'vanceDowdell.html',
         imagePath:'images/vancedowdell.jpg'
+
+        firstName:'Nathan',
+        lastName:'Sobarnia',
+        location: 'San Jacinto, CA',
+        html:'nathanSobarnia.html',
+        imagePath:'images/nathanSobarnia.jpg'
     },
     {
         firstName:'Tamari',
