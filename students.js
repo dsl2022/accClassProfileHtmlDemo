@@ -12,6 +12,24 @@ export const data = [
         html:'miguelFlores.html',
         imagePath:'images/miguelFlores.jpg'
     },{
+        firstName:'Marlon',
+        lastName:'Dowdell',
+        location: 'Riverside CA',
+        html:'marlonDowdell.html',
+        imagePath:'images/marlonDowdell.jpg'
+    },{
+        firstName:'Nathan',
+        lastName:'Sobarnia',
+        location: 'San Jacinto, CA',
+        html:'nathanSobarnia.html',
+        imagePath:'images/nathanSobarnia.jpg'
+    },{
+        firstName:'Alireza',
+        lastName:'Soloukdar',
+        location: 'California, CA',
+        html:'alirezaSoloukdar.html',
+        imagePath:'images/alirezaSoloukdar.jpg'
+    },{
         firstName:'Tamari',
         lastName:'Tinsley',
         location: 'California, CA',
@@ -54,7 +72,7 @@ export const data = [
         location: 'Fontana, CA',
         html:'bonnieLee.html',
         imagePath:'images/bonnieLee.jpg'
-
     },
+
 ]
 
