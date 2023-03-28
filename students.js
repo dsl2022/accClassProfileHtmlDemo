@@ -5,6 +5,14 @@ export const data = [
         location: 'Philadephia, PA',
         html:'davidLiang.html',
         imagePath:'images/davidLiang.jpg'
+
+    },
+    {
+        firstName:'Julissa',
+        lastName:'Cervantes',
+        location: 'Chino, CA',
+        html:'julissaCervantes.html',
+        imagePath:'images/julissaCervantes.jpg'
      },
     {
         firstName:'Marlon',
