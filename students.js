@@ -14,6 +14,12 @@ export const data = [
         imagePath:'images/marlonDowdell.jpg'
     },
     {
+        firstName:'Thomas',
+        lastName:'Cerda',
+        location: 'California, CA',
+        html:'thomasCerda.html',
+        imagePath:'images/thomasCerda.jpg'
+
         firstName:'Nathan',
         lastName:'Sobarnia',
         location: 'San Jacinto, CA',
