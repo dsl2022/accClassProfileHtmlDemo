@@ -21,12 +21,20 @@ export const data = [
         imagePath:'images/nathanSobarnia.jpg'
     },
     {
+        firstName:'Tuan',
+        lastName:'Thai',
+        location: 'Los Angeles, CA',
+        html:'tuanThai.html',
+        imagePath:'images/tuanThai.jpg'
+     },  
+     {
         firstName:'Alireza',
         lastName:'Soloukdar',
         location: 'California, CA',
         html:'alirezaSoloukdar.html',
-        imagePath:'images/alirezaSoloukdar.jpg'
-     }  
+        imagePath:'images/alirezaSoloukdar.jpg' 
+     }, 
+     {
         firstName:'Tamari',
         lastName:'Tinsley',
         location: 'California, CA',
