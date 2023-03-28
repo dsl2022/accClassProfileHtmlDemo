@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="stlyesheet.css" />
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <section class="About">
+      <h2>About me</h2>
+      <p>
+        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nulla numquam
+        quo sed! Suscipit consectetur quaerat excepturi repellat aspernatur
+        architecto nisi?
+      </p>
+    </section>
+
+    <section class="eduction">
+      <h2>Eduction</h2>
+      <ul>
+        <li>los angeles mission college</li>
+        <li>Computer science</li>
+      </ul>
+    </section>
+
+    <section class="experience">
+      <h2>Experience</h2>
+      <ul>
+        <li>HTML5, PHP, Java, C++, and Bootstrap: Expert</li>
+        <li>jQuery, Python, CSS3, .NET and ActionScript: Moderate</li>
+        <li>
+          Adobe Creative Cloud, WordPress, ColdFusion, AJAX and Wordpress:
+          Proficient
+        </li>
+      </ul>
+    </section>
+
+    <section class="contact">
+      <h2>Contact me</h2>
+      <ul>
+        <li>Email: emmanuelchavez559@gmail.com</li>
+        <li>number: 818-550-call-me</li>
+      </ul>
+    </section>
+  </body>
+</html>
