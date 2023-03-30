@@ -38,12 +38,22 @@ export const data = [
 
     },
     {
+
+
+        firstName:'Marc',
+        lastName:'Robinson',
+        location: 'San Bernardino, CA',
+        html:'marcRobinson.html',
+        imagePath:'images/marcRobinson.jpg'
+
+
         firstName:'Alireza',
         lastName:'Soloukdar',
         location: 'California, CA',
         html:'alirezaSoloukdar.html',
         imagePath:'images/alirezaSoloukdar.jpg'
      }  
+
         firstName:'Tamari',
         lastName:'Tinsley',
         location: 'California, CA',
