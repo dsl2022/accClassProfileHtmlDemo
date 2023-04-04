@@ -2,7 +2,7 @@ export const data = [
     {
         firstName:'David',
         lastName:'Liang',
-        location: 'Philadephia, PA',
+        location: 'Philadephia,PA',
         html:'davidLiang.html',
         imagePath:'images/davidLiang.jpg'
 
@@ -23,6 +23,11 @@ export const data = [
         imagePath:'images/marlonDowdell.jpg'
     },
     {
+        firstName:'vance',
+        lastName:'dowdell',
+        location: 'perris,ca',
+        html:'vanceDowdell.html',
+        imagePath:'images/vancedowdell.jpg'
 
         firstName:'Daniel',
         lastName:'Santoscoy',
@@ -88,7 +93,6 @@ export const data = [
         location: 'Fontana, CA',
         html:'bonnieLee.html',
         imagePath:'images/bonnieLee.jpg'
-
     },
 
 ]
